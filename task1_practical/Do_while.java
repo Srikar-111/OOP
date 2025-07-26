@@ -1,3 +1,5 @@
+package task1_practical;
+
 public class Do_while {
     public static void main(String[] args) {
         int i = 2;
